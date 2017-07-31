@@ -1,6 +1,7 @@
 {
     "name": "dadeg/php-country-definite-article",
     "description": "PHP library for adding the definite article 'the' to country names that require it for correct English grammar.",
+    "license": "MIT",
     "authors": [
         {
             "name": "Dan DeGreef",
