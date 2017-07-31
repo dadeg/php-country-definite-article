@@ -11,5 +11,5 @@ This PHP package allows for adding the definite article ("the") to country names
 ## Getting Started
 ```php
 use CountryDefiniteArticle\CountryFormatter;
-$countryWithDefiniteArticleAdded = CountryFormatter::format("United States");
+$countryWithDefiniteArticleAdded = CountryFormatter::format("United States"); // "the United States"
 ```
